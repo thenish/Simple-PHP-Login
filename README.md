@@ -8,6 +8,6 @@ Installation...
 2. Copy and Paste all file into PHP server folder.
 3. Open index.php, then test and modify according to your requirements
 
-this is the username and password.
+
 Username: admin
 Password: admin
